@@ -7,4 +7,7 @@ public interface UserService {
 	
 	//张三又添加了一个deleteUser的方法
 	void deleteUser();
+	
+	//xxx方法
+	void xxx();
 }
