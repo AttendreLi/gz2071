@@ -6,6 +6,5 @@ public interface UserService {
 	void addUser();
 	
 	//张三又添加了一个deleteUser的方法
-	
 	void deleteUser();
 }
