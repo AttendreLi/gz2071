@@ -10,4 +10,7 @@ public interface UserService {
 	
 	//xxx方法
 	void xxx();
+	
+	//cc方法
+	void cc();
 }
